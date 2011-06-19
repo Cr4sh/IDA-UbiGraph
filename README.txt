@@ -1,5 +1,6 @@
 
-Modified MyNav-1.1 IDA plugin for displaying 3D code graphs with UbiGraph engine.
+IDA Pro plug-in and tools for displaying 3D graphs of procedures using UbiGraph.
+based on modified MyNav-1.1 IDA plugin.
 
 UbiGraph project page:
 http://ubietylab.net/ubigraph/index.html
