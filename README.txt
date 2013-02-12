@@ -2,6 +2,9 @@
 IDA Pro plug-in and tools for displaying 3D graphs of procedures using UbiGraph.
 based on modified MyNav-1.1 IDA plugin.
 
+Video demo:
+http://vimeo.com/26200637
+
 UbiGraph project page:
 http://ubietylab.net/ubigraph/index.html
 
